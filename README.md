@@ -6,4 +6,4 @@
 I wanna test the github batch system .
 
 
-This is a collabaration post for test .
+This is a collabaration post for
