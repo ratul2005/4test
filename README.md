@@ -1,10 +1,10 @@
 <p align="center">
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29%2C50:302b63%2C100:24243e&height=200&section=header&text=ratulhub&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29%2C50:302b63%2C100:24243e&height=200&section=header&text=ratulhub&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+MD.+Abdur+Rahim+Ratul+%F0%9F%91%8B;Developer+%26+Open+Source+Enthusiast;Check+out+ratul.site;Let's+build+something+great+together+%F0%9F%9A%80)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+MD.+Abdur+Rahim+Ratul+%F0%9F%91%8B;Developer+%26+Open+Source+Enthusiast;Check+out+ratul.site;Let's+build+something+great+together+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </p>
 
@@ -109,31 +109,31 @@
 ## ✨ Extra Flair
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=ratulhub&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ratulhub&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratulhub&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ratulhub&theme=tokyo-night" alt="Activity Graph" /></a>
 </p>
 
 <p align="center">
-![Followers](https://img.shields.io/github/followers/ratulhub?style=for-the-badge&logo=github&color=6366f1)
+<img src="https://img.shields.io/github/followers/ratulhub?style=for-the-badge&logo=github&color=6366f1" alt="Followers" />
 </p>
 
 <p align="center">
-![Stars](https://img.shields.io/github/stars/ratulhub?style=for-the-badge&logo=github&color=f59e0b&affiliations=OWNER)
+<img src="https://img.shields.io/github/stars/ratulhub?style=for-the-badge&logo=github&color=f59e0b&affiliations=OWNER" alt="Stars" />
 </p>
 
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=ratulhub&style=flat&color=6366f1)
+<img src="https://komarev.com/ghpvc/?username=ratulhub&style=flat&color=6366f1" alt="Profile Views" />
 </p>
 
 <p align="center">
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true)
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true" alt="Spotify" />
 </p>
 
 <p align="center">
-[![Dev Card](https://api.daily.dev/devcards/v2/ratulhub.png?type=wide&r=n7l)](https://app.daily.dev/ratulhub)
+<a href="https://app.daily.dev/ratulhub"><img src="https://api.daily.dev/devcards/v2/ratulhub.png?type=wide&r=n7l" alt="Dev Card" /></a>
 </p>
 
 
